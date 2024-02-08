@@ -21,43 +21,42 @@ Virtual Parrot Companion:
 
 Players will have a virtual parrot companion that they can interact with in the VR environment.
 The parrot will respond to players' actions and engage in conversations to facilitate language learning.
-Conversation Practice:
 
+- Conversation Practice:
 The game will provide various conversation scenarios where players can practice speaking English with the parrot.
 Conversations will cover a range of topics including greetings, everyday activities, and common phrases.
-Language Learning Activities:
 
+- Language Learning Activities:
 Interactive language learning activities such as vocabulary quizzes, pronunciation exercises, and grammar drills will be included.
 Progress tracking will monitor players' proficiency levels and provide feedback to aid improvement.
-Virtual Environment:
 
+- Virtual Environment:
 The VR environment will feature immersive landscapes and interactive elements to enhance the learning experience.
 Players can explore different locations and interact with objects to further engage with the language.
-Customization and Personalization:
 
+- Customization and Personalization:
 Players will have the option to customize their parrot companion's appearance, name, and personality.
 Personalized learning paths will adapt to individual player preferences and learning styles.
 
 ## Technical Requirements:
-
 Oculus VR Compatibility:
 
 Development of the game specifically for the Oculus VR platform, ensuring compatibility and optimization.
 Integration of Oculus SDK for features such as hand tracking and spatial audio.
-Speech Recognition and Natural Language Processing:
 
+- Speech Recognition and Natural Language Processing:
 Implementation of speech recognition technology to accurately interpret players' spoken responses.
 Natural language processing algorithms to understand context and provide relevant feedback.
-Graphics and Visual Design:
 
+- Graphics and Visual Design:
 High-quality 3D graphics and animations to create an immersive virtual environment.
 User-friendly interface design optimized for VR interaction and navigation.
-Data Storage and Management:
 
+- Data Storage and Management:
 Backend systems to store player profiles, progress data, and game content.
 Cloud-based storage solutions for scalability and accessibility across devices.
-Performance Optimization:
 
+- Performance Optimization:
 Optimization of game performance to ensure smooth gameplay and minimize motion sickness in VR.
 Testing on Oculus devices to identify and resolve performance issues.
 
