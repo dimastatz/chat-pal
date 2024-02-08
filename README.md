@@ -1,8 +1,8 @@
-<div>
+<div align="center">
 <kbd>
 <img src="./chatpal.png" width="256px"> 
 </kbd>
-</div>div>
+</div>
 
 # ChatPal: English Language Learning in Virtual Reality
 
