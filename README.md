@@ -1,7 +1,10 @@
+
 <div align="center">
-<kbd>
-<img src="./chatpal.png" width="256px"> 
-</kbd>
+  <h1 align="center"> ChatPal </h1> 
+  <h3>ChatPal: English Language Learning in Virtual Reality</br></h3>
+  <kbd>
+  <img src="./chatpal.png" width="256px"> 
+  </kbd>
 </div>
 
 # ChatPal: English Language Learning in Virtual Reality
