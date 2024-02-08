@@ -1,7 +1,7 @@
-# Project Title: ParrotPal: English Language Learning in Virtual Reality
+# Project Title: ChatPal: English Language Learning in Virtual Reality
 
 ## Project Overview:
-ParrotPal is an immersive English language learning game designed for the Oculus VR platform. Inspired by the Tamagotchi concept, ParrotPal allows kids to interact with a virtual parrot while engaging in language learning activities. Through conversations and interactive exercises, players will improve their English skills in a fun and engaging virtual environment.
+ChatPal is an immersive English language learning game designed for the Oculus VR platform. Inspired by the Tamagotchi concept, ChatPal allows kids to interact with a virtual parrot while engaging in language learning activities. Through conversations and interactive exercises, players will improve their English skills in a fun and engaging virtual environment.
 
 ## Key Features:
 
@@ -89,6 +89,6 @@ Budget for marketing campaigns to promote the game on the Oculus Store and other
 Localization efforts to adapt the game for international markets and non-English speaking audiences.
 
 ## Conclusion:
-ParrotPal offers a unique and immersive way for kids to learn English through virtual reality interaction with a friendly parrot companion. By combining gamified learning activities with the immersive capabilities of VR technology, ParrotPal aims to make language learning engaging, effective, and fun for young learners on the Oculus platform.
+ChatPal offers a unique and immersive way for kids to learn English through virtual reality interaction with a friendly parrot companion. By combining gamified learning activities with the immersive capabilities of VR technology, ChatPal aims to make language learning engaging, effective, and fun for young learners on the Oculus platform.
 
 Please note that this requirements document serves as a guide for the development process and may be subject to revisions and updates based on stakeholder feedback, technological advancements, and market trends.
