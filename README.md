@@ -84,17 +84,16 @@ Ongoing support and updates based on user feedback and platform updates.
 
 ## Budget and Resources:
 
-Development Team:
-
+- Development Team:
 VR developers experienced in Unity or Unreal Engine, specializing in Oculus VR development.
 Linguists and language educators to design effective language learning content.
 Project management and quality assurance personnel to oversee the development process.
-Hardware and Software:
 
+- Hardware and Software:
 Oculus VR headsets for development and testing purposes.
 Software licenses for development tools, graphics software, and speech recognition APIs.
-Marketing and Distribution:
 
+- Marketing and Distribution:
 Budget for marketing campaigns to promote the game on the Oculus Store and other VR platforms.
 Localization efforts to adapt the game for international markets and non-English speaking audiences.
 
