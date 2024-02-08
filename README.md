@@ -62,24 +62,23 @@ Testing on Oculus devices to identify and resolve performance issues.
 
 ## Development Timeline:
 
-Pre-Production Phase:
-
+- Pre-Production Phase:
 Conceptualization of game mechanics, features, and learning objectives.
 Storyboarding and prototyping to visualize the VR experience.
-Production Phase:
 
+- Production Phase:
 Development of game assets, including 3D models, animations, and dialogue scripts.
 Implementation of core gameplay mechanics and VR interactions.
-Testing and Iteration:
 
+- Testing and Iteration:
 Alpha testing to identify bugs, usability issues, and language accuracy.
 Iterative development based on feedback from testers and language experts.
-Polishing and Optimization:
 
+- Polishing and Optimization:
 Optimization of graphics, performance, and user experience for Oculus VR devices.
 Final testing and bug fixing to ensure a polished and immersive experience.
-Launch and Post-Launch Support:
 
+- Launch and Post-Launch Support:
 Release of the game on the Oculus Store with promotional efforts to reach the target audience.
 Ongoing support and updates based on user feedback and platform updates.
 
