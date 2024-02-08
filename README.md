@@ -1,6 +1,6 @@
 <div>
 <kbd>
-<img src="./docs/images/chatpal.png" width="256px"> 
+<img src="./chatpal.png" width="256px"> 
 </kbd>
 </div>div>
 
